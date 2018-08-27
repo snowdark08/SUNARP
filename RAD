@@ -1,2 +1,7 @@
 //===================RUTA CONSOLA============//
 http://localhost:9060/ibm/console
+
+//=================================== HOW TO IMPORT PROJECT IN RAD OR ECLIPSE =======================//
+https://www.ibm.com/support/knowledgecenter/en/SSS9LM_9.0.3/com.ibm.rational.appscansrc.utilities.doc/topics/wafl_example_import.html
+77===========Server stuck on Starting - Eclipse Oxygen, WAS Developer Tools v8.5x
+https://developer.ibm.com/answers/questions/442967/server-stuck-on-starting-eclipse-oxygen-was-develo/
